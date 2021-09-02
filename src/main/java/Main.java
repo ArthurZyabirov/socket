@@ -7,7 +7,7 @@ import java.net.Socket;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        int port = 80;
+        int port = 31000;
         System.out.println("server started!");
 
         while(true) {
