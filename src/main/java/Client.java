@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class Host {
+public class Client {
     public static void main(String[] args) {
         String host = "127.0.0.1";
         int port = 31000;
